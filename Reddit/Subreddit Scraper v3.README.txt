@@ -1,0 +1,35 @@
+Script: Subreddit Scraper v3.ps1
+
+Gets the following information about a specified subreddit:
+	Posted              - Date & Time of the post
+	Subreddit           - Originating subreddit
+	Title               - Title of the post
+	Upvotes             - Number of upvotes at the time of retrieval
+	External URL        - URL to the post content
+	Reddit Comments URL - URL to the comments section
+	Comments            - The top 10 comments on the post
+                          The number and sort type of the comments is configurable within the script
+The file is an Excel workbook.
+
+Usage: 
+Example 1: '.\Subreddit Scraper v3.ps1' -SubReddit worldnews -SortBy new -Limit 10
+Creates a file in the directory of the script file called 'r_worldnews.xlsx'
+If the file exists, it appends data to the file.
+Also creates or appends data to 'r_[CONSOLIDATED].xlsx' every time no matter the chosen subredit.
+The worksheet name is 'new'. If the worksheet did not exist, it will be added.
+The worksheet is populated with data from the worldnews subreddit's 'new' category.
+Only 10 results are returned.
+
+Example 2: '.\Subreddit Scraper v3.ps1' -SubReddit sysadmin -SortBy top
+Creates a file in the directory of the script file called 'r_sysadmin.xlsx'
+If the file exists, it appends data to the file.
+Also creates or appends data to 'r_[CONSOLIDATED].xlsx' every time no matter the chosen subredit.
+The worksheet name is 'top'. If the worksheet did not exist, it will be added.
+The worksheet is populated with data from the sysadmin subreddit's 'top' category.
+100 results (default limit) are returned.
+
+Example 3: '.\Subreddit Scraper v3.ps1'
+Creates a file in the directory of the script file called 'r_all.xlsx'
+If the file exists, it appends data to the file.
+Also creates or appends data to 'r_[CONSOLIDATED].xlsx' every time no matter the chosen subredit.
+100 results (default limit) are returned.

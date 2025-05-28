@@ -1,0 +1,2199 @@
+[
+  {
+    "enabled": true,
+    "id": "Starfield.esm",
+    "name": "Starfield.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "ShatteredSpace.esm",
+    "name": "ShatteredSpace.esm",
+    "modId": "Distinct Misc Names-9087-1-3-1728965280",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "BlueprintShips-Starfield.esm",
+    "name": "BlueprintShips-Starfield.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "OldMars.esm",
+    "name": "OldMars.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "Constellation.esm",
+    "name": "Constellation.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS003.esm",
+    "name": "SFBGS003.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS004.esm",
+    "name": "SFBGS004.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS006.esm",
+    "name": "SFBGS006.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS007.esm",
+    "name": "SFBGS007.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS008.esm",
+    "name": "SFBGS008.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "sfta01.esm",
+    "name": "sfta01.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00c.esm",
+    "name": "sfbgs00c.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00b.esm",
+    "name": "sfbgs00b.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs024.esm",
+    "name": "sfbgs024.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kgcdoom.esm",
+    "name": "kgcdoom.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs009.esm",
+    "name": "sfbgs009.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_a.esm",
+    "name": "sfbgs00a_a.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_d.esm",
+    "name": "sfbgs00a_d.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_e.esm",
+    "name": "sfbgs00a_e.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_f.esm",
+    "name": "sfbgs00a_f.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_g.esm",
+    "name": "sfbgs00a_g.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_i.esm",
+    "name": "sfbgs00a_i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00a_j.esm",
+    "name": "sfbgs00a_j.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs02a_a.esm",
+    "name": "sfbgs02a_a.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs02b_a.esm",
+    "name": "sfbgs02b_a.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00f_a.esm",
+    "name": "sfbgs00f_a.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs019.esm",
+    "name": "sfbgs019.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs021.esm",
+    "name": "sfbgs021.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs031.esm",
+    "name": "sfbgs031.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs023.esm",
+    "name": "sfbgs023.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs01c.esm",
+    "name": "sfbgs01c.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00e.esm",
+    "name": "sfbgs00e.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs01b.esm",
+    "name": "sfbgs01b.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "unofficial starfield patch.esm",
+    "name": "unofficial starfield patch.esm",
+    "modId": "Unofficial Starfield Patch-143-1-0-6a-1733282842",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "unofficial shattered space patch.esm",
+    "name": "unofficial shattered space patch.esm",
+    "modId": "Unofficial Shattered Space Patch-143-1-0-2-1732479635",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kinggathcreations_legendary.esm",
+    "name": "kinggathcreations_legendary.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "AmmoFramework.esm",
+    "name": "AmmoFramework.esm",
+    "modId": "Ammo Framework 1.05-12296-1-05-1733086125",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "BakaLevelBonuses.esm",
+    "name": "BakaLevelBonuses.esm",
+    "modId": "Baka Leveling Bonuses-11388-1-1-1725496893",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "DAC.esm",
+    "name": "DAC.esm",
+    "modId": "Disable Actor Collision on Player Ship-13299-1-02-1740523715",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "DistinctMiscNames.esm",
+    "name": "DistinctMiscNames.esm",
+    "modId": "Distinct Misc Names-9087-1-3-1728965280",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "DistinctMiscNames-ShatteredSpace.esm",
+    "name": "DistinctMiscNames-ShatteredSpace.esm",
+    "modId": "Distinct Misc Names-9087-1-3-1728965280",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ExtendedCockpitButton.esm",
+    "name": "ExtendedCockpitButton.esm",
+    "modId": "Pilot Seat Access From Ladders-7530-1-2-1740420876",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "FunctionalDecor.esm",
+    "name": "FunctionalDecor.esm",
+    "modId": "Functional Decor-10789-1-9-1739157746",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "G36CRedux.esm",
+    "name": "G36CRedux.esm",
+    "modId": "G36C Redux 1.01-12606-1-01-1733086022",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "wicked outpost projeckt 2.esm",
+    "name": "wicked outpost projeckt 2.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "wicked outpost fortified.esm",
+    "name": "wicked outpost fortified.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "terrormorphfollowers.esm",
+    "name": "terrormorphfollowers.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stregretsquest.esm",
+    "name": "stregretsquest.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shame.esm",
+    "name": "shame.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mercurypenthousefurnishedbyf3niix.esm",
+    "name": "mercurypenthousefurnishedbyf3niix.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vultures_roost.esm",
+    "name": "vultures_roost.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "TreasurehuntV2.1.esm",
+    "name": "TreasurehuntV2.1.esm",
+    "modId": "Treasurehunt V2.5-13072-2-5-1738875016",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stlazarusawakened.esm",
+    "name": "stlazarusawakened.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_paradisoplayerhome_furnished.esm",
+    "name": "dwn_paradisoplayerhome_furnished.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stroudpremiumedition.esm",
+    "name": "stroudpremiumedition.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mark i & constellation suit skin bundle.esm",
+    "name": "mark i & constellation suit skin bundle.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tankgirlsmodelhomepoi.esm",
+    "name": "tankgirlsmodelhomepoi.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "morestaryards.esm",
+    "name": "morestaryards.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "settled systems outfit variety - new outfit varieties.esm",
+    "name": "settled systems outfit variety - new outfit varieties.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "meleeweaponspack.esm",
+    "name": "meleeweaponspack.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "327ggtridentluxuryhabs.esm",
+    "name": "327ggtridentluxuryhabs.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mantislairhome.esm",
+    "name": "mantislairhome.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neonhideout5.esm",
+    "name": "neonhideout5.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "KWNewBooks.esm",
+    "name": "KWNewBooks.esm",
+    "modId": "MoreBooksII-12664-2-0-1733480841",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_newhomestead_playerhouse.esm",
+    "name": "dwn_newhomestead_playerhouse.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_dazrahomefurnished.esm",
+    "name": "dwn_dazrahomefurnished.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "better_living.esm",
+    "name": "better_living.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson fleet spacesuit overhaul.esm",
+    "name": "crimson fleet spacesuit overhaul.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_thekeyquartersfurnished.esm",
+    "name": "dwn_thekeyquartersfurnished.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eli_sho_akilapoor.esm",
+    "name": "eli_sho_akilapoor.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thecorefurnished.esm",
+    "name": "thecorefurnished.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "theviewportrestored.esm",
+    "name": "theviewportrestored.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ceejcrimsonhabs.esm",
+    "name": "ceejcrimsonhabs.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rvspace.esm",
+    "name": "rvspace.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mhfeta001.esm",
+    "name": "mhfeta001.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "missoargosopk1.esm",
+    "name": "missoargosopk1.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "wicked outpost projeckt fielded.esm",
+    "name": "wicked outpost projeckt fielded.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "wicked outpost strucktured.esm",
+    "name": "wicked outpost strucktured.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "themidasmanor.esm",
+    "name": "themidasmanor.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "Hal_Breakable_Packaged_Food.esm",
+    "name": "Hal_Breakable_Packaged_Food.esm",
+    "modId": "HBI Breakable Packaged Food 1.2-12427-1-2-1732514505",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "Item Sorter.esm",
+    "name": "Item Sorter.esm",
+    "modId": "Customizable Item Sorter-5537-2-2-1-1698149338",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "qog-pawnshop.esm",
+    "name": "qog-pawnshop.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "qog-miningconglomerate.esm",
+    "name": "qog-miningconglomerate.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "LazyPanda.esm",
+    "name": "LazyPanda.esm",
+    "modId": "Lazy Panda - A Scav's Auto Loot for Starfield-13225-1-09-1740717386",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "LazyPanda_DLC.esm",
+    "name": "LazyPanda_DLC.esm",
+    "modId": "Lazy Panda - A Scav's Auto Loot for Starfield-13225-1-09-1740717386",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "MayhemCutter.esm",
+    "name": "MayhemCutter.esm",
+    "modId": "Overpowered Cutter - CK Lite ESM-9017-1-1-1718242712",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "PXC_CompX.esm",
+    "name": "PXC_CompX.esm",
+    "modId": "CompX-12933-1-0-1-1736484510",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "PXC_CompX_RemovePerkChallenges.esm",
+    "name": "PXC_CompX_RemovePerkChallenges.esm",
+    "modId": "CompX-12933-1-0-1-1736484510",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ResourceDescriptions.esm",
+    "name": "ResourceDescriptions.esm",
+    "modId": "Resource Descriptions-12991-1-1-1737487209",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neon_cyber_crate01.esm",
+    "name": "neon_cyber_crate01.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "SKKFastStartNewGame.esm",
+    "name": "SKKFastStartNewGame.esm",
+    "modId": "SKKFastStartNewGame_014-5971-014-1727904508",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "SKKShipTools.esm",
+    "name": "SKKShipTools.esm",
+    "modId": "SKKShipTools_007-5466-007-1718302377",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nff0001_m6pistol.esm",
+    "name": "nff0001_m6pistol.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dmLegendaryRecycler.esm",
+    "name": "dmLegendaryRecycler.esm",
+    "modId": "dmLegendaryRecycler_v150-6074-1-50-1727918100",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "cityinteriormapmarkers.esm",
+    "name": "cityinteriormapmarkers.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starborn suit overhaul.esm",
+    "name": "starborn suit overhaul.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "SKKUniversalStash.esm",
+    "name": "SKKUniversalStash.esm",
+    "modId": "SKKUniversalStash_009-5670-009-1719136881",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ShipTerminals.esm",
+    "name": "ShipTerminals.esm",
+    "modId": "ShipTerminals-8769-2-0-1740599243",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ShipWorkshopAssignments.esm",
+    "name": "ShipWorkshopAssignments.esm",
+    "modId": "Ship Crew Assignments-12744-3-1-1739916169",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "additionalweaponicons.esm",
+    "name": "additionalweaponicons.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "armored mercury suit & armored explorer suit.esm",
+    "name": "armored mercury suit & armored explorer suit.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aseveil.esm",
+    "name": "aseveil.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_backpacks_z.esm",
+    "name": "starfield_backpacks_z.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "faction expansion project.esm",
+    "name": "faction expansion project.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "forgottenfrontierspoi.esm",
+    "name": "forgottenfrontierspoi.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "forgotten frontiers - faction & encounter expansion project patch.esm",
+    "name": "forgotten frontiers - faction & encounter expansion project patch.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "owltech_lets_work_habs.esm",
+    "name": "owltech_lets_work_habs.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "useful brigs.esm",
+    "name": "useful brigs.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "owltech_lets_work_habs_ub_patch.esm",
+    "name": "owltech_lets_work_habs_ub_patch.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "wicked outpost industrial complex.esm",
+    "name": "wicked outpost industrial complex.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aseliving.esm",
+    "name": "aseliving.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "astrophysicsreworked.esm",
+    "name": "astrophysicsreworked.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "atlasclothing.esm",
+    "name": "atlasclothing.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "better_living_ii.esm",
+    "name": "better_living_ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "spacesuit skin variety collection part i.esm",
+    "name": "spacesuit skin variety collection part i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "spacesuit skin variety collection part ii.esm",
+    "name": "spacesuit skin variety collection part ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_gadgets_z.esm",
+    "name": "starfield_gadgets_z.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "craftable whiteout themed outfits.esm",
+    "name": "craftable whiteout themed outfits.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_crowd_overhaul_z.esm",
+    "name": "starfield_crowd_overhaul_z.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_eyewear_z.esm",
+    "name": "starfield_eyewear_z.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "blackout spacesuit skins bundle part i.esm",
+    "name": "blackout spacesuit skins bundle part i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "blackout spacesuit skins bundle part ii.esm",
+    "name": "blackout spacesuit skins bundle part ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation uc pilot skins.esm",
+    "name": "constellation uc pilot skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "projectwarfare.esm",
+    "name": "projectwarfare.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neonsmuggler.esm",
+    "name": "neonsmuggler.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_showmyhome.esm",
+    "name": "dwn_showmyhome.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "estellevincentcompanion.esm",
+    "name": "estellevincentcompanion.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "novafinch_apollo9.esm",
+    "name": "novafinch_apollo9.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "weap_b320_pistol.esm",
+    "name": "weap_b320_pistol.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation uc marine skins.esm",
+    "name": "constellation uc marine skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc blackout bundle.esm",
+    "name": "uc blackout bundle.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "salvaged pilot suit.esm",
+    "name": "salvaged pilot suit.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "salvaged marine armor.esm",
+    "name": "salvaged marine armor.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "explorer spacesuit skins.esm",
+    "name": "explorer spacesuit skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "cbx_impactgrenades.esm",
+    "name": "cbx_impactgrenades.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "cbx_mineguns.esm",
+    "name": "cbx_mineguns.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "codripper.esm",
+    "name": "codripper.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "combat medic skin collection.esm",
+    "name": "combat medic skin collection.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "community request skins.esm",
+    "name": "community request skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "owltech_habs_ship_living.esm",
+    "name": "owltech_habs_ship_living.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tankgirlsmodelhome.esm",
+    "name": "tankgirlsmodelhome.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "companionpreviews.esm",
+    "name": "companionpreviews.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation & mark i redux.esm",
+    "name": "constellation & mark i redux.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation shocktrooper skins.esm",
+    "name": "constellation shocktrooper skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation suit skins - collection i.esm",
+    "name": "constellation suit skins - collection i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation suit skins - collection ii.esm",
+    "name": "constellation suit skins - collection ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "constellation themed skins for uc pilot & marine suits redux.esm",
+    "name": "constellation themed skins for uc pilot & marine suits redux.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "craftable blackout themed outfits.esm",
+    "name": "craftable blackout themed outfits.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "craftable constellation themed outfits.esm",
+    "name": "craftable constellation themed outfits.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "craftable vanguard themed outfits.esm",
+    "name": "craftable vanguard themed outfits.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson & ecliptic themed craftable outfits.esm",
+    "name": "crimson & ecliptic themed craftable outfits.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson fleet shocktrooper skins.esm",
+    "name": "crimson fleet shocktrooper skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson fleet spacesuit skins mega collection i.esm",
+    "name": "crimson fleet spacesuit skins mega collection i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson fleet spacesuit skins mega collection ii.esm",
+    "name": "crimson fleet spacesuit skins mega collection ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson fleet themed spacesuit skins bundle i.esm",
+    "name": "crimson fleet themed spacesuit skins bundle i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson fleet themed spacesuit skins bundle ii.esm",
+    "name": "crimson fleet themed spacesuit skins bundle ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "csfjcu001.esm",
+    "name": "csfjcu001.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "csfjcu002.esm",
+    "name": "csfjcu002.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "csfjcu003.esm",
+    "name": "csfjcu003.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "csfjcu004.esm",
+    "name": "csfjcu004.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dcc-sense-star-stuff.esm",
+    "name": "dcc-sense-star-stuff.esm",
+    "modId": "Sense Angry Star Stuff-9644-1-0-2-1718335393",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_jemisonlostmansion.esm",
+    "name": "dwn_jemisonlostmansion.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "deluxedynamicboostpacks.esm",
+    "name": "deluxedynamicboostpacks.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "disguise.esm",
+    "name": "disguise.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "doctorrosie.esm",
+    "name": "doctorrosie.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dpbookexpansion.esm",
+    "name": "dpbookexpansion.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_showmyhome_shatteredspace.esm",
+    "name": "dwn_showmyhome_shatteredspace.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eli_renamedevidence.esm",
+    "name": "eli_renamedevidence.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eli_renamedsnowglobes.esm",
+    "name": "eli_renamedsnowglobes.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eli_surveyslates.esm",
+    "name": "eli_surveyslates.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "elysiumakm.esm",
+    "name": "elysiumakm.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "faction expansion project outfit asset pack.esm",
+    "name": "faction expansion project outfit asset pack.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "faction expansion project spacesuit asset pack.esm",
+    "name": "faction expansion project spacesuit asset pack.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "operative space suit.esm",
+    "name": "operative space suit.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "faction outfit variety - new outfit varieties.esm",
+    "name": "faction outfit variety - new outfit varieties.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "fleet commander.esm",
+    "name": "fleet commander.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "freestar & ryujin themed craftable skins.esm",
+    "name": "freestar & ryujin themed craftable skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "freestar shocktrooper skins.esm",
+    "name": "freestar shocktrooper skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "freestar suit skin collection i.esm",
+    "name": "freestar suit skin collection i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "freestar suit skin collection ii.esm",
+    "name": "freestar suit skin collection ii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "freestar themed skins for spacesuits - collection iii.esm",
+    "name": "freestar themed skins for spacesuits - collection iii.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gameplayoptionsextended.esm",
+    "name": "gameplayoptionsextended.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gravis suit overhaul.esm",
+    "name": "gravis suit overhaul.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ground crew rainbow of the starfield.esm",
+    "name": "ground crew rainbow of the starfield.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "groundpounders mission fix.esm",
+    "name": "groundpounders mission fix.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gungravecerberus.esm",
+    "name": "gungravecerberus.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "immersivecontraband.esm",
+    "name": "immersivecontraband.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "jawa.esm",
+    "name": "jawa.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "lbn_lockonrange.esm",
+    "name": "lbn_lockonrange.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "m4a1assaultrifle.esm",
+    "name": "m4a1assaultrifle.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "manipulationalwayswork_progressiveversion.esm",
+    "name": "manipulationalwayswork_progressiveversion.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "max_credit_vendors_sp0ckrates.esm",
+    "name": "max_credit_vendors_sp0ckrates.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nasa & mast skin collection.esm",
+    "name": "nasa & mast skin collection.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nfvc0004heavyweaponpack.esm",
+    "name": "nfvc0004heavyweaponpack.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nk_builder.esm",
+    "name": "nk_builder.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "non-lethal framework.esm",
+    "name": "non-lethal framework.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "novafinch_enforcerpistol.esm",
+    "name": "novafinch_enforcerpistol.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "onek_btdt.esm",
+    "name": "onek_btdt.esm",
+    "modId": "1K Been There Done That-12787-1-0-1734829566",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "outpostmissionboards.esm",
+    "name": "outpostmissionboards.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "owltech_office.esm",
+    "name": "owltech_office.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "personalvendortweaks.esm",
+    "name": "personalvendortweaks.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "projectwarfareaddonpack1.esm",
+    "name": "projectwarfareaddonpack1.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "projectwarfareammopatch.esm",
+    "name": "projectwarfareammopatch.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "qog-walterfix.esm",
+    "name": "qog-walterfix.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "r2d2.esm",
+    "name": "r2d2.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ranger spacesuit faction skin theme bundle.esm",
+    "name": "ranger spacesuit faction skin theme bundle.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ranger themed spacesuit skins.esm",
+    "name": "ranger themed spacesuit skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ringobungo_apexelectronicsex.esm",
+    "name": "ringobungo_apexelectronicsex.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rvscav.esm",
+    "name": "rvscav.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rvulpack.esm",
+    "name": "rvulpack.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ryujin spacesuit skins.esm",
+    "name": "ryujin spacesuit skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "satou_chunksrestored.esm",
+    "name": "satou_chunksrestored.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shades_stealth_takedowns.esm",
+    "name": "shades_stealth_takedowns.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shocktrooper skins.esm",
+    "name": "shocktrooper skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sn6advancedwarfare.esm",
+    "name": "sn6advancedwarfare.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "social skills extended.esm",
+    "name": "social skills extended.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_shipbunkassignmentclipboards.esm",
+    "name": "sp2_shipbunkassignmentclipboards.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_patch_shipbunkassignmentclipboards-shatteredspace.esm",
+    "name": "sp2_patch_shipbunkassignmentclipboards-shatteredspace.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_crowd_faces_z.esm",
+    "name": "starfield_crowd_faces_z.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stellarblades.esm",
+    "name": "stellarblades.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc marine & pilot camo collection.esm",
+    "name": "uc marine & pilot camo collection.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc marine skins.esm",
+    "name": "uc marine skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc mast alternate skins.esm",
+    "name": "uc mast alternate skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc pilot & marine faction camo skin collection.esm",
+    "name": "uc pilot & marine faction camo skin collection.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc pilot spacesuit skins.esm",
+    "name": "uc pilot spacesuit skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc pilot ucsec skins.esm",
+    "name": "uc pilot ucsec skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc sec marine skins.esm",
+    "name": "uc sec marine skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "unocucflygirl.esm",
+    "name": "unocucflygirl.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "urbanwar & anti-xeno skins for uc marine armor.esm",
+    "name": "urbanwar & anti-xeno skins for uc marine armor.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "useful infirmaries.esm",
+    "name": "useful infirmaries.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "useful mess halls.esm",
+    "name": "useful mess halls.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "useful mess halls - expanded.esm",
+    "name": "useful mess halls - expanded.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "usefulmorgues.esm",
+    "name": "usefulmorgues.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vanguard themed skin bundle.esm",
+    "name": "vanguard themed skin bundle.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vanguard uc marine skins.esm",
+    "name": "vanguard uc marine skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vanguard uc pilot camo skins.esm",
+    "name": "vanguard uc pilot camo skins.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "varuun themed skins for spacesuits - collection i.esm",
+    "name": "varuun themed skins for spacesuits - collection i.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vehiclehazardprotection.esm",
+    "name": "vehiclehazardprotection.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vendors sell faction gear.esm",
+    "name": "vendors sell faction gear.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "wicked outpost projeckt shattered.esm",
+    "name": "wicked outpost projeckt shattered.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "x2357primearmorskinsstarborn.esm",
+    "name": "x2357primearmorskinsstarborn.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "Final Patch.esm",
+    "name": "Final Patch.esm",
+    "modId": "The Final Patch-12072-1-0-1-1735952773",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ShipTerminals.esp",
+    "name": "ShipTerminals.esp",
+    "modId": "ShipTerminals-8769-2-0-1740599243",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thewellapartment_furnishedisimproved.esp",
+    "name": "thewellapartment_furnishedisimproved.esp",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  }
+]
