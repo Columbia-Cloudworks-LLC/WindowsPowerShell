@@ -133,3 +133,6 @@ function Get-DfsStatus {
 
     return $output
 }
+
+# Just check “DC1” for DFS health & logs in the last 24 hours
+Get-DfsStatus -ServerName 'DC1'

@@ -81,3 +81,13 @@ function Get-ArchiveEventLogStatus {
         Write-Error "Unable to contact server '$ServerName' or an error occurred: $_"
     }
 }
+
+# Retrieve the archive‐event‐log status for "DC01"
+$report = Get-ArchiveEventLogStatus -ServerName 'DC01'
+if ($report) {
+    "Server:        $($report.Server)"
+    "OldestLogDate: $($report.OldestLogDate)"
+    "Age (days):    $($report.AgeDays)"
+} else {
+    "No archive logs found under D:\ibmeventlogs (or unable to read)."
+}
