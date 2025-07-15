@@ -1,6 +1,0 @@
-function IsoTime() {
-	# Time Format: yyyy-MM-ddThh:mm:sszzzz
-	# Example: 2024-05-13T06:41:22-05:00 = 6:41:22 AM (US Central) on 5/13/2024
-	$IsoTime = Get-Date -Format "yyyy-MM-ddThh:mm:sszzzz"
-	return $IsoTime
-}
