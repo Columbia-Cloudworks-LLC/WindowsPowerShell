@@ -1,4 +1,3 @@
-#Requires -Version 5.2
 <#
 .SYNOPSIS
     Validates patching on Windows servers and generates a CSV report.
@@ -322,7 +321,7 @@ function Main {
         $serverInfo = Get-ServerInfo -ServerName $server
 
         if ($serverInfo.Success) {
-            Write-Host "  ✓ Server is online" -ForegroundColor Green
+            Write-Host "  [OK] Server is online" -ForegroundColor Green
             
             # Validate patching
             $validation = Test-PatchingValidation -ServerInfo $serverInfo -LastReboot $serverInfo.LastReboot -Patches $serverInfo.Patches
@@ -362,14 +361,14 @@ function Main {
 
             # Display validation issues
             if ($validation.Issues.Count -gt 0) {
-                Write-Host "  ⚠ Issues found:" -ForegroundColor Red
+                Write-Host "  [WARNING] Issues found:" -ForegroundColor Red
                 foreach ($issue in $validation.Issues) {
                     Write-Host "    - $issue" -ForegroundColor Red
                 }
             }
         }
         else {
-            Write-Host "  ✗ Error: $($serverInfo.Error)" -ForegroundColor Red
+            Write-Host "  [ERROR] $($serverInfo.Error)" -ForegroundColor Red
             Write-ErrorLog -Message $serverInfo.Error -ServerName $server
             $script:HasErrors = $true
         }
@@ -380,7 +379,7 @@ function Main {
     # Write CSV file
     try {
         $csvData | Export-Csv -Path $outputFile -NoTypeInformation -Encoding UTF8
-        Write-Host "`n✓ Report generated successfully: $outputFile" -ForegroundColor Green
+        Write-Host "`n[OK] Report generated successfully: $outputFile" -ForegroundColor Green
     }
     catch {
         Write-Error "Failed to write CSV file: $($_.Exception.Message)"
@@ -390,7 +389,7 @@ function Main {
 
     # Open error log if there were errors
     if ($script:HasErrors) {
-        Write-Host "`n⚠ Errors occurred during execution. Opening error log..." -ForegroundColor Yellow
+        Write-Host "`n[WARNING] Errors occurred during execution. Opening error log..." -ForegroundColor Yellow
         Start-Process notepad.exe -ArgumentList $ErrorLogFile
     }
 

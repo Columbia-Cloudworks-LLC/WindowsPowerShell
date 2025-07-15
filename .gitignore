@@ -7,3 +7,4 @@ Microsoft.PowerShell_profile.ps1
 desktop.ini
 *.code-workspace
 Data
+.llm*
